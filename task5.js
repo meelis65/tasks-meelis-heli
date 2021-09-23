@@ -25,3 +25,5 @@ console.log(check(c))
 console.log(up(a))
 console.log(up(b))
 console.log(up(c))
+
+//testing
