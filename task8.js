@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const movies = require('./moviedata.json')
 
 movies.map(movie => {
@@ -136,3 +137,12 @@ let uniqeActors = [...new Set(actors)]
 let actorString = 'Actors that palyed in that movie '
 actorString += uniqeActors.join(', ') + '.'
 console.log(actorString)
+=======
+const movieData = require(',/moviedata.json')
+
+movieDataa.map(movie =>{
+    movie.Year <0 +movieData
+})
+
+console.log('movie', movieData)
+>>>>>>> 47c34060b63d918391e1b103d64075bf4e64b5b9
